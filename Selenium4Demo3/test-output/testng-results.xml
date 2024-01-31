@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-30T18:29:37 ICT" name="Suite" finished-at="2024-01-30T18:30:34 ICT" duration-ms="56358">
+    <groups>
+    </groups>
+    <test started-at="2024-01-30T18:29:37 ICT" name="Test" finished-at="2024-01-30T18:30:34 ICT" duration-ms="56358">
+      <class name="selenium4Tests.handlingAlerts">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:selenium4Tests.handlingAlerts@1cf6d1be]" started-at="2024-01-30T18:29:45 ICT" name="setUp" finished-at="2024-01-30T18:29:52 ICT" duration-ms="7320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="alerts()[pri:0, instance:selenium4Tests.handlingAlerts@1cf6d1be]" started-at="2024-01-30T18:30:12 ICT" name="alerts" finished-at="2024-01-30T18:30:16 ICT" duration-ms="4159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alerts -->
+        <test-method is-config="true" signature="teadDown()[pri:0, instance:selenium4Tests.handlingAlerts@1cf6d1be]" started-at="2024-01-30T18:30:32 ICT" name="teadDown" finished-at="2024-01-30T18:30:32 ICT" duration-ms="221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teadDown -->
+      </class> <!-- selenium4Tests.handlingAlerts -->
+      <class name="selenium4Tests.Navigation">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:selenium4Tests.Navigation@7161d8d1]" started-at="2024-01-30T18:29:37 ICT" name="setUp" finished-at="2024-01-30T18:29:43 ICT" duration-ms="5431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="navigate()[pri:0, instance:selenium4Tests.Navigation@7161d8d1]" started-at="2024-01-30T18:30:04 ICT" name="navigate" finished-at="2024-01-30T18:30:20 ICT" duration-ms="16097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:selenium4Tests.Navigation@7161d8d1]" started-at="2024-01-30T18:30:30 ICT" name="tearDown" finished-at="2024-01-30T18:30:32 ICT" duration-ms="2059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- selenium4Tests.Navigation -->
+      <class name="selenium4Tests.handlingDropdowns">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:selenium4Tests.handlingDropdowns@117159c0]" started-at="2024-01-30T18:29:52 ICT" name="setUp" finished-at="2024-01-30T18:29:55 ICT" duration-ms="2471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="dropDowns()[pri:0, instance:selenium4Tests.handlingDropdowns@117159c0]" started-at="2024-01-30T18:30:04 ICT" name="dropDowns" finished-at="2024-01-30T18:30:12 ICT" duration-ms="7683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropDowns -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:selenium4Tests.handlingDropdowns@117159c0]" started-at="2024-01-30T18:30:32 ICT" name="tearDown" finished-at="2024-01-30T18:30:33 ICT" duration-ms="229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- selenium4Tests.handlingDropdowns -->
+      <class name="selenium4Tests.Screenshots">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:selenium4Tests.Screenshots@75d3a5e0]" started-at="2024-01-30T18:29:43 ICT" name="setUp" finished-at="2024-01-30T18:29:45 ICT" duration-ms="2270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="takeScreenshot()[pri:0, instance:selenium4Tests.Screenshots@75d3a5e0]" started-at="2024-01-30T18:30:04 ICT" name="takeScreenshot" finished-at="2024-01-30T18:30:22 ICT" duration-ms="17956" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:selenium4Tests.Screenshots@75d3a5e0]" started-at="2024-01-30T18:30:32 ICT" name="tearDown" finished-at="2024-01-30T18:30:32 ICT" duration-ms="273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- selenium4Tests.Screenshots -->
+      <class name="selenium4Tests.handlingLists">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:selenium4Tests.handlingLists@663c9e7a]" started-at="2024-01-30T18:29:55 ICT" name="setUp" finished-at="2024-01-30T18:29:57 ICT" duration-ms="2104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="lists()[pri:0, instance:selenium4Tests.handlingLists@663c9e7a]" started-at="2024-01-30T18:30:16 ICT" name="lists" finished-at="2024-01-30T18:30:21 ICT" duration-ms="5434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lists -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:selenium4Tests.handlingLists@663c9e7a]" started-at="2024-01-30T18:30:33 ICT" name="tearDown" finished-at="2024-01-30T18:30:33 ICT" duration-ms="250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- selenium4Tests.handlingLists -->
+      <class name="selenium4Tests.keyBoardActions">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:selenium4Tests.keyBoardActions@19e4653c]" started-at="2024-01-30T18:29:57 ICT" name="setUp" finished-at="2024-01-30T18:29:59 ICT" duration-ms="2265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="keyActions()[pri:0, instance:selenium4Tests.keyBoardActions@19e4653c]" started-at="2024-01-30T18:30:18 ICT" name="keyActions" finished-at="2024-01-30T18:30:30 ICT" duration-ms="11635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- keyActions -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:selenium4Tests.keyBoardActions@19e4653c]" started-at="2024-01-30T18:30:33 ICT" name="tearDown" finished-at="2024-01-30T18:30:33 ICT" duration-ms="262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- selenium4Tests.keyBoardActions -->
+      <class name="selenium4Tests.switchingTabs">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:selenium4Tests.switchingTabs@74d1dc36]" started-at="2024-01-30T18:29:59 ICT" name="setUp" finished-at="2024-01-30T18:30:02 ICT" duration-ms="2509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="switchTab()[pri:0, instance:selenium4Tests.switchingTabs@74d1dc36]" started-at="2024-01-30T18:30:04 ICT" name="switchTab" finished-at="2024-01-30T18:30:22 ICT" duration-ms="18239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchTab -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:selenium4Tests.switchingTabs@74d1dc36]" started-at="2024-01-30T18:30:33 ICT" name="tearDown" finished-at="2024-01-30T18:30:33 ICT" duration-ms="280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- selenium4Tests.switchingTabs -->
+      <class name="selenium4Tests.switchingWindow">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:selenium4Tests.switchingWindow@74e28667]" started-at="2024-01-30T18:30:02 ICT" name="setUp" finished-at="2024-01-30T18:30:04 ICT" duration-ms="1985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="switchWindow()[pri:0, instance:selenium4Tests.switchingWindow@74e28667]" started-at="2024-01-30T18:30:04 ICT" name="switchWindow" finished-at="2024-01-30T18:30:18 ICT" duration-ms="14392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchWindow -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:selenium4Tests.switchingWindow@74e28667]" started-at="2024-01-30T18:30:33 ICT" name="tearDown" finished-at="2024-01-30T18:30:34 ICT" duration-ms="235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- selenium4Tests.switchingWindow -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

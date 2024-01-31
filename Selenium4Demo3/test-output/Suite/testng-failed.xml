@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="classes" name="Test(failed)">
+    <classes>
+      <class name="selenium4Tests.Navigation">
+        <methods>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- selenium4Tests.Navigation -->
+      <class name="selenium4Tests.handlingAlerts">
+        <methods>
+          <include name="teadDown"/>
+        </methods>
+      </class> <!-- selenium4Tests.handlingAlerts -->
+      <class name="selenium4Tests.switchingTabs">
+        <methods>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- selenium4Tests.switchingTabs -->
+      <class name="selenium4Tests.switchingWindow">
+        <methods>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- selenium4Tests.switchingWindow -->
+      <class name="selenium4Tests.handlingLists">
+        <methods>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- selenium4Tests.handlingLists -->
+      <class name="selenium4Tests.Screenshots">
+        <methods>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- selenium4Tests.Screenshots -->
+      <class name="selenium4Tests.iFramesHandling">
+        <methods>
+          <include name="iFrames"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- selenium4Tests.iFramesHandling -->
+      <class name="selenium4Tests.handlingDropdowns">
+        <methods>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- selenium4Tests.handlingDropdowns -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
